@@ -15,6 +15,3 @@ function superbowlWin(record) {
   let result = record.find => result === "W";
   return !!result ? reult.year : undefined 
 }
-
-
-
